@@ -1,0 +1,8 @@
+{
+  "name": "MyFirstTheme",
+  "author": "Lik",
+  "license": "license, ask if you want to add one but dont know how to or what license to choose in #theme-development",
+  "version": "0.1",
+  "updater": "this is where you put your raw.githubusercontent.com link, if you ever want to update your theme just bump the version number up"
+}
+
